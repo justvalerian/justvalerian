@@ -1,4 +1,4 @@
-I'm a cartographer, currently finishing the international <a href="https://cartographymaster.eu/" target="_blank">Cartography M.Sc.</a> with my thesis on MapColPal - a color palette generation and testing tool for thematic maps.
+I'm a cartographer, just graduated in the international <a href="https://cartographymaster.eu/" target="_blank">Cartography M.Sc.</a> with my thesis on MapColPal - a color palette generation and testing tool for thematic maps.
 <br>Right now, I'm focusing methodically on responsive and interactive web visualizations as well as data visualization and programming in general.
 <br>Thematically my work centers around sustainability, organizational development and education.
 <br>Feel free to contact me if you see a beneficial synergy with what you're doing at the moment.
